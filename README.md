@@ -13,8 +13,9 @@ Aplikasi ini untuk memenuhi project UAS SIG
 [Click Here](https://github.com/achyusuf10/flutter-presensi-app/raw/main/app-release.apk)
 
 ## For Testing
-email : test@gmail.com
-pwd : 123123
+• email : test@gmail.com
+• pwd : 123123
 
 ## To Do
-Buat Versi Adminnya
+- Buat Versi Adminnya
+- Klo Sudah Absen kasih notif, sudah absen dan absen nya nggk masuk ke DB
