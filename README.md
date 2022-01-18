@@ -10,4 +10,11 @@ Aplikasi ini untuk memenuhi project UAS SIG
 2. Kemudian tambahkan API Key Google Maps anda di android/app/src/main/AndroidManifest.xml
 
 ## Download Aplikasi
-[Click Here](https://github.com/abdullah1006/flutter-presensi-app/raw/main/app-release.apk)
+[Click Here](https://github.com/achyusuf10/flutter-presensi-app/raw/main/app-release.apk)
+
+## For Testing
+email : test@gmail.com
+pwd : 123123
+
+## To Do
+Buat Versi Adminnya
