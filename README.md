@@ -13,8 +13,8 @@ Aplikasi ini untuk memenuhi project UAS SIG
 [Click Here](https://github.com/achyusuf10/flutter-presensi-app/raw/main/app-release.apk)
 
 ## Structure Firebase
-![attedance](https://user-images.githubusercontent.com/65402864/180636480-dd2f1ef9-34fc-41a0-acee-61652f48da19.png)
-![user](https://user-images.githubusercontent.com/65402864/180636484-1fb56a1c-f58b-462a-9ca3-820a5cff597e.png)
+<img src="https://user-images.githubusercontent.com/65402864/180636480-dd2f1ef9-34fc-41a0-acee-61652f48da19.png" width=800>
+<img src="https://user-images.githubusercontent.com/65402864/180636484-1fb56a1c-f58b-462a-9ca3-820a5cff597e.png" width=800>
 
 ## For Testing
 • email : test@gmail.com
